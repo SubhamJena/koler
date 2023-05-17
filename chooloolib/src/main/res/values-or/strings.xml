@@ -3,13 +3,13 @@
     <!--region titles-->
     <string name="recents">Recents</string>
     <string name="contacts">Contacts</string>
-    <string name="actions">Actions</string>
+    <string name="actions">କୃତ୍ୟଗୁଡ଼ା</string>
     <string name="conference">Conference</string>
-    <string name="default_page">Default</string>
+    <string name="default_page">ଡିଫଲ୍ଟ</string>
     <string name="settings">ସେଟିଂ</string>
-    <string name="theme_mode_dark">Dark</string>
-    <string name="theme_mode_light">Light</string>
-    <string name="theme_mode_system">System</string>
+    <string name="theme_mode_dark">ଗାଢ଼</string>
+    <string name="theme_mode_light">ହାଲୁକା</string>
+    <string name="theme_mode_system">ସିଷ୍ଟମ୍</string>
     <string name="theme_mode_dynamic">Dynamic</string>
     <string name="in_development">In Development…</string>
     <string name="pop_up_notification">Pop-Up Notification</string>
